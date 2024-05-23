@@ -13,7 +13,7 @@ function Contacts(props) {
                     Yana Bereza
                 </div>
                 <div className={classes.description}>
-                    <span className={classes.bold}>Georgian</span> olive <span className={classes.bold}>platator</span>
+                    <span className={classes.bold}>Georgian olive planter</span>
                 </div>
             </div>
             <div className={classes.holder}>
