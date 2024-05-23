@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'e-Ukraine-Light Head';
+  color: inherit;
+}
+
+body {
+  background-color: rgb(242, 242, 242);
+}
+
+@font-face {
+  font-family: 'e-Ukraine-Light Head';
+  src: url('../public/assets/fonts/e-UkraineHead-Light.otf');
+}
+
+@font-face {
+  font-family: 'e-Ukraine-Regular Head';
+  src: url('../public/assets/fonts/e-UkraineHead-Regular.otf');
+}
