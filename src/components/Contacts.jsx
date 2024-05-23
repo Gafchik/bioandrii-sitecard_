@@ -13,7 +13,7 @@ function Contacts(props) {
                     Ivan Bereza
                 </div>
                 <div className={classes.description}>
-                    <span className={classes.bold}>Georgia olive platator</span>
+                    <span className={classes.bold}>Georgian olive planter</span>
                 </div>
             </div>
             <div className={classes.holder}>
