@@ -10,7 +10,7 @@ function Contacts(props) {
         <div className={classes.container}>
             <div>
                 <div className={classes.title}>
-                    Ivan Bereza
+                    Yana Bereza
                 </div>
                 <div className={classes.description}>
                     <span className={classes.bold}>Georgian</span> olive <span className={classes.bold}>platator</span>
@@ -20,13 +20,13 @@ function Contacts(props) {
                 {/*<a style={{animationDuration: '.6s'}} className={classes.icon} href="https://wa.me/995599427509">*/}
                 {/*    <AiOutlineWhatsApp title="Whatsapp" />*/}
                 {/*</a>*/}
-                <a style={{animationDuration: '.9s'}} className={classes.icon} href="https://t.me/lat424532">
+                <a style={{animationDuration: '.9s'}} className={classes.icon} href="https://t.me/+380933799021">
                     <TbBrandTelegram title="Telegram" />
                 </a>
                 {/*<a style={{animationDuration: '1.2s'}} className={classes.icon} href="viber://chat?number=+995599427509">*/}
                 {/*    <FaViber title="Viber" />*/}
                 {/*</a>*/}
-                <a style={{animationDuration: '1.5s'}} className={classes.icon} href="mailto:Latifundistge@gmail.com?subject=&body=">
+                <a style={{animationDuration: '1.5s'}} className={classes.icon} href="mailto:proskyrova@ukr.net?subject=&body=">
                     <HiOutlineMail title="Mail" />
                 </a>
                 {/*<a style={{animationDuration: '1.8s'}} className={classes.icon} href="tel:+995599427509">*/}
